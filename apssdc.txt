@@ -1,0 +1,9 @@
+versno control
+======================
+To track the change of a file or project
++ distribution vcs
+
+   +Distributed vcs
+     + Git,mercrial
++ Centeral vcs 
+     + Github,Apache subversion
